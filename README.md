@@ -140,20 +140,6 @@ Extract available Showgram usernames and export them as a ready-to-use list:
 
 ---
 
-## Project Structure
-
-```text
-Showgram/
-├── Account_Creator.py   # Main tool
-├── start.png            # Banner
-├── Account_Creator.png  # Setup preview
-├── Done_Creating.txt    # Created accounts output
-├── p.txt                # Proxies (your file)
-└── README.md
-```
-
----
-
 ## Disclaimer
 
 This project is provided for **educational and research purposes** only.  
